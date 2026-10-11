@@ -1,0 +1,12 @@
+# Python 3.13. Versiones fijadas para que dos ejecuciones con los mismos argumentos coincidan
+mlflow==3.16.1
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.5.3
+matplotlib==3.11.2
+
+# Solo para abrir el notebook de exploración
+jupyter==1.1.1
+
+# Solo para generar la estructura del proyecto, no se requiere para ejecutarlo:
+# pip install cookiecutter-data-science==2.3.0
